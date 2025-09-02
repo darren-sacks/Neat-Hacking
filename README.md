@@ -10,3 +10,9 @@ Stay organised while pentesting/red-teaming (I know you aren't)! Simple Python s
 2 - Input name of target you want to create file tree for.
 
 3 - Visit the file tree as specified in the terminal output eg. /<base_directory>/<target_name>
+
+# Customisation
+
+Easily customize the files and folders created via the arrays at the top of the script (Should be clear based on comments in code).
+
+Rest of code need not be touched unless you want to expand usage.
