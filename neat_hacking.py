@@ -10,8 +10,8 @@
 # Promote Me: https://www.linkedin.com/in/darren-sacks
 
 # Config the script variables
-FILES = ["polished_notes.txt"]
-FOLDERS = ["recon", "exploit", "post-exploit", "screenshots", "loot", "rough-notes"]
+FILES = ["notes.txt", "rough_notes.txt", "scope.ip", "up.ip"]
+FOLDERS = ["recon", "exploit", "post-exploit", "screenshots", "loot"]
 
 # Module imports
 import sys
